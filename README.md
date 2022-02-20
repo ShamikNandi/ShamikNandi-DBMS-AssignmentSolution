@@ -25,6 +25,7 @@ PRICE
  
 # Table 1
 Passenger_nam Category Gender Boarding_City Destination_City Distance Bus_Type
+
 Sejal AC F Bengaluru Chennai 350 Sleeper
 Anmol Non-AC M Mumbai Hyderabad 700 Sitting
 Pallavi AC F Panaji Bengaluru 600 Sleeper
@@ -37,6 +38,7 @@ Piyush AC M Pune Nagpur 700 Sitting
 
 # Table 2
 Bus_Type Distance Price
+
 Sleeper 350 770
 Sleeper 500 1100
 Sleeper 600 1320
